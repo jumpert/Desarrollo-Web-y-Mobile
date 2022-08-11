@@ -5,7 +5,7 @@
 ### :card_index_dividers: [**Unidad Temática 1 - Introducción HTML, CSS y JS**](./Unidad%201%20-%20Introduccion)
   - [:open_file_folder: Ejercicios](./Unidad%201%20-%20Introduccion/Ejercicios)
   - [:open_file_folder: Materiales](./Unidad%201%20-%20Introduccion/Materiales)
-  - [:page_facing_up: Reflexiones](./Unidad%20Temática%201/Reflexiones.md)
+  - [:page_facing_up: Reflexiones](./Unidad%201%20-%20Introduccion/Reflexiones.md)
 <!--
 ### :card_index_dividers: [**Unidad Temática 2 - Análisis y diseño de algoritmos**](./Unidad%20Temática%202)
   - [:open_file_folder: Auntes](./Unidad%20Temática%202/Apuntes)
