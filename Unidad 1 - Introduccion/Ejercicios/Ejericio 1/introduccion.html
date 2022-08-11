@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="introStyle.css">
+  </head>
+  <body>
+    <h1>Lista de mascotas</h1><br>
+    
+    <h2>Lista desordenada de perros</h2>
+    <ul class="lista-desordenada"> 
+      <li onclick=eliminar(this)>Perro 3</li>
+      <li onclick=eliminar(this)>Perro 2</li>
+      <li onclick=eliminar(this)>Perro 1</li>
+      <li onclick=eliminar(this)>Perro 4</li>
+    </ul>
+    
+    <input id="nuevo" type="text" >
+    <button id="button" onclick=agregar()>Add item</button><br>
+
+    <h2>Lista ordenada de gatos</h2>
+    <ol class="lista-ordenada">
+      <li>Gato 1</li>
+      <li>Gato 2</li>
+      <li>Gato 3</li>
+      <li>Gato 4</li>
+    </ol>
+    <input id="nuevo2" type="text" >
+    <button id="button2">Add item</button>
+
+    <script>
+      function agregar() {
+        
+        let val = document.getElementById("nuevo").value;
+        var node = document.createElement('li');
+        
+        node.innerHTML = val;
+        document.querySelector('ul').appendChild(node) ;
+        
+        document.getElementById("nuevo").value = "";
+      }
+
+      function eliminar(elem) {
+        elem.parentNode.removeChild(elem);
+      }
+      
+    </script>
+  </body>
+</html>
