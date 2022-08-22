@@ -31,3 +31,25 @@ Por otro lado en cuanto a la presentación de la clase trabajamos en Bootstrap, 
 Finalmente relizamos un ejercicio con las documentaciones que contiene Bootstrap, en cuanto a crear un formulario y hacer que se leyera su contenido y poder enviarlo con un modal.
 
 <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png" border-radius="10px">
+  
+  
+## Fin de Unidad - Ejercicio de diseño
+
+La clase se presento en base a un ejercicio de diseño de una pagina web con algunas caracteristicas, como agregar notas, botones y modo tematico nocturno.
+Sin mayores explicaciones se desarrollo la clase buscando los materiales en la pagina de <a href="https://developer.mozilla.org/" target="_blank" alt="Pagina de desarrolladores de Mozilla.">MDN</a>.
+<img src="https://user-images.githubusercontent.com/88668277/185819887-500fb05e-8637-4657-8ef8-f6a4203e3f05.png" alt="Diseño fondo blanco" width="450px">
+<img src="https://user-images.githubusercontent.com/88668277/185820036-3351855d-6036-475e-b2a8-da2b659e7232.png" alt="Diseño fondo negro" width="450px">
+  
+Para smart devices:
+  
+<img src="https://user-images.githubusercontent.com/88668277/185820485-02684738-80f3-4b0e-b80a-e4e74bb4725d.png" alt="Vista en dispositivos inteligentes" width="250px">
+
+  
+Códigos de implementacion: 
+#### CSS y JS
+
+<img src="https://user-images.githubusercontent.com/88668277/185820114-7345a3bb-7613-470a-9b55-d15921d44060.png" alt="Codigo CSS" width="350px">
+<img src="https://user-images.githubusercontent.com/88668277/185820257-5cd74bdd-5773-4cc2-8498-2d773a6ea98c.png" alt="Codigo JS" width="450px">
+
+  
+Queda las imagenes de los codigos como documentacion de los mismos, de igual manera se pueden acceder a ellos concurriendo a la carpeta del ejercicio UT0-TA2.
