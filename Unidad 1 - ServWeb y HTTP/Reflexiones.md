@@ -30,9 +30,9 @@ Para realizar esto utilizamos unas APIs que devuelven información básica de pe
 + https://api.agify.io 
 + https://reqbin.com
 
-<img src="https://user-images.githubusercontent.com/88668277/187930997-761fec30-21ce-490e-bf0d-2b4f7caf60e0.png" weigth="350px"/>
-<img src="https://user-images.githubusercontent.com/88668277/187932644-a0c4c228-9da1-46bf-9b81-fa0071d40aa5.png" weigth="350px"/>
-<img src="https://user-images.githubusercontent.com/88668277/187933063-15c04a00-21aa-4c4d-9c39-44c6a387d1c0.png" weigth="350px"/>
+<img src="https://user-images.githubusercontent.com/88668277/187930997-761fec30-21ce-490e-bf0d-2b4f7caf60e0.png" width="350px">
+<img src="https://user-images.githubusercontent.com/88668277/187932644-a0c4c228-9da1-46bf-9b81-fa0071d40aa5.png" width="350px">
+<img src="https://user-images.githubusercontent.com/88668277/187933063-15c04a00-21aa-4c4d-9c39-44c6a387d1c0.png" width="350px">
 
 
 ## Utilización de API OPEN METEO
