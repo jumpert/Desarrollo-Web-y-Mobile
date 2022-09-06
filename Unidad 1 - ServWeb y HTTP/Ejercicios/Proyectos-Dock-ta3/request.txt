@@ -1,0 +1,55 @@
+{
+  info: {
+    page: 1,
+    results: 1,
+    seed: "a7bdf318b49ead41",
+    version: "1.4"
+  },
+  results: [{
+  cell: "076 350 57 89",
+  dob: {
+    age: 66,
+    date: "1955-09-10T07:00:58.648Z"
+  },
+  email: "theresia.vidal@example.com",
+  gender: "female",
+  id: {
+    name: "AVS",
+    value: "756.8903.9299.06"
+  },
+  location: {
+    city: "Muttenz",
+    coordinates: { ... },
+    country: "Switzerland",
+    postcode: 4060,
+    state: "Aargau",
+    street: { ... },
+    timezone: { ... }
+  },
+  login: {
+    md5: "ec77e9f9d113becc85818506651fecda",
+    password: "kenshin",
+    salt: "CRbh0X8c",
+    sha1: "9ef3205ce1c24876d7d241a0ae9f1ce64ab28814",
+    sha256: "af6aeb77c10c785bb2e06f2bb483c4db1fbf976eb9304fe8b94b96d8376407ca",
+    username: "beautifullion668",
+    uuid: "eff85290-07b0-42fc-b081-9a346051915e"
+  },
+  name: {
+    first: "Theresia",
+    last: "Vidal",
+    title: "Mademoiselle"
+  },
+  nat: "CH",
+  phone: "075 503 98 26",
+  picture: {
+    large: "https://randomuser.me/api/portraits/women/37.jpg",
+    medium: "https://randomuser.me/api/portraits/med/women/37.jpg",
+    thumbnail: "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+  },
+  registered: {
+    age: 14,
+    date: "2008-06-30T06:15:18.062Z"
+  }
+}]
+}

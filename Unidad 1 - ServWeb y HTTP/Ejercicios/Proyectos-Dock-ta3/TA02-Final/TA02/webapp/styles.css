@@ -1,0 +1,87 @@
+
+/* NAVBAR STYLES */
+#ucuIcon {
+    /*border-radius: 2px;
+    padding: 1px;
+    margin-bottom: 1px;*/
+    width: 40%;
+    height: auto;
+}
+
+.navbarDiv {
+    display: table;
+    margin: 0 auto;
+}
+
+/* END NAVBAR  */
+
+.body {
+    display: table;
+    margin: 0 auto;
+}
+
+/* CARDS (Notas) */
+.cards {
+    padding: 3pt;
+    margin: 3pt;
+    border-radius: 5pt;
+}
+
+#cardDeleteIcon {
+    width: 80%;
+    height: auto;
+}
+
+.cardsBody {
+    display: flex;
+    margin-right: auto;
+
+}
+
+/* Botones */
+.delete-button {
+    padding-left: 150pt;
+    padding-right: 10pt;
+    padding-bottom: 10pt;
+    border-radius: 50pt;
+}
+
+.btnB {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+/* MODALES */
+.modal-content-title {
+    border-radius: 10pt;
+    padding: 10pt;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    margin-right: 10pt;
+    font-weight: bold;
+    color: #000000;
+    max-width: 10%;
+    max-height: 10%;
+}
+
+.modal-content {
+    border-radius: 30pt;
+    padding: 10pt;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    margin-right: 10pt;
+    max-width: 100%;
+}
+
+
