@@ -25,6 +25,8 @@ Tomamos un tutorial desde la página principal de <a href="https://angular.io/tu
 ## Reconstruyendo la App de notas con Angular
 
 En la clase de hoy, lo que hicimos fue dividirnos en sub-equipos para abordar la app de notas que habiamos construido en la UT pasada, pero esta vez viendola desde un punto de vista de los contenedores de que nos ofrece Angular.
+
 Particularmente en nuestr sub-equipo, abordamos varias de las funcionalidades de la App, como lo son la NavBar, el toogle button de night-mode, así como tambien el boton agregar y el footer.
+
 Lo bueno que se puede apreciar de este tipo de herramientas como angular, es poder dividir el trabajo en forma aislada, para que una vez que se tenga un sitio web, no sea necesario que se recargue constantemente toda la pagina, sino que pueda hacerse por bloques a necesidad, mientras que el resto permanece en cache. Esto nos ayuda a tener aplicaciones y sitios que tengan una mejor performance. En lo particular, esto me parece muy aprobechable para nuestro futuro como profesionales del area.
 
