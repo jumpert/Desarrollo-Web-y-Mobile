@@ -30,3 +30,14 @@ Particularmente en nuestr sub-equipo, abordamos varias de las funcionalidades de
 
 Lo bueno que se puede apreciar de este tipo de herramientas como angular, es poder dividir el trabajo en forma aislada, para que una vez que se tenga un sitio web, no sea necesario que se recargue constantemente toda la pagina, sino que pueda hacerse por bloques a necesidad, mientras que el resto permanece en cache. Esto nos ayuda a tener aplicaciones y sitios que tengan una mejor performance. En lo particular, esto me parece muy aprobechable para nuestro futuro como profesionales del area.
 
+## Continuación de la App de Notas en Angular
+
+La consigna de la clase de hoy fue poder unir y finalizar las tareas que veniamos haciendo para la propuesta de rediseñar la app, entre cada subequipo.
+
+Cabe destacar que los trabajos que impone el realizar un ejercicio como este es muy complicado, ya que nuestra experiencia en este tipo de lenguaje y conocimiento de las herramientas se remonta a tan solo una clases. Agregando además que el tema no esta tan afianzado y claro, como para decir que existe una base solida en la cual poder seguir construyendo.
+
+La operativa de trabajo esta buena, aunque el tener que hacer las cosas a ciegas practicamente, dificulta el aprendizaje y desalienta la capacidad de poder seguir con el trabajo. Esto lo menciono desde el punto de vista de que ponen un proyecto como este que sabe que no se puede sacar en 2 clases y que tiene un monton de trancas e implementaciones nuevas, que impiden tener pronto el trabajo a tiempo, lo que contradice el espiritu y entuciasmo de saber que pudimos lograrlo en tiempo y forma, lo que da aliento y esa sensación del deber cumplido que es un buen motivador.
+
+Para comentar de nuestro trabajo, nos quedo pendiente el poder generar el modal para poder cargar las anotaciones en las tarjetas, aunque esto es algo que tiene un impacto negativo a la hora de poder utilizar la app, las bases para poder hacerlo ya estan prontas, solo resta poder unirlo con la logica del boton y ver que su comportamiento sea el esperado.
+
+
