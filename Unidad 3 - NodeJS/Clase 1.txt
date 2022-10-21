@@ -1,0 +1,15 @@
+clase de node js, npm, packages.json
+hello worlds
+
+nodeje.dev --> para node 
+
+expressjs.com --> para express
+
+https://stackabuse.com/building-a-rest-api-with-node-and-express/
+
+https://nodejs.dev/en/learn/introduction-to-nodejs/
+
+https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/
+
+http://expressjs.com/en/starter/generator.html
+
