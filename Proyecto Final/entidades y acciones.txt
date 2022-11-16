@@ -1,0 +1,80 @@
+PROYECTO FINAL
+
+opcionales:
+capa de datos (no Json)
+sign Up / Recordar Contrasela
+App Mobile
+Autenticación en APIs
+Host Publico (front + back + datos)
+
+
+Entidades:
+	-Products: 
+		-id
+		-name
+		-description
+		-quantity
+		-price
+		-imageSrc
+	-ShoppingCart:
+		-name
+		-description
+		-quantity
+		-price
+		-imageSrc
+	-User:
+		-nick (email)
+		-pass
+		-repass
+		-address
+	-Pay Method:
+		-card
+		-
+	
+ACCIONES:
+	-shoppingcart:
+		-Obtener todos:
+			Path: /shoppingCart
+			-GET()
+		-Agregar item:
+			Path: /shoppingCart
+			-POST()
+		-Modificar item:  //INC CANTIDAD
+			Path: /shoppingCart/:id
+			-PUT(id)
+		-Borrar item:
+			Path: /shoppingCart/:id
+			-DELETE(Id)
+	-products:
+		-Obtener todos:
+			Path: /products
+			-GET()
+		-Obtener item:
+			Path: /products/:id
+			-GET(Id)
+		-Modificar item:
+			Path: /products/:id
+			-PUT(id)
+		-Crear item:
+			Path: /products
+			-POST() 
+		-Borrar item:
+			Path: /products/:id
+			-DELETE(Id)
+	-users:
+		-Obtener todos:
+			Path: /users
+			-GET()
+		-Obtener user:
+			Path: /users/:id
+			-GET(Id)
+		-Crear user:
+			Path: /users
+			-POST() 
+		-Borrar item:
+			Path: /users/:id
+			-DELETE(Id)
+	-:
+		-Obtener todos:
+			Path: /
+			-GET()

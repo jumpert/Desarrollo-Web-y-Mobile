@@ -1,0 +1,110 @@
+git lfs DESCARGAR
+
+git lfs install
+
+fake-insta
+
+Entidades:
+	-Image: 
+		-id
+		-src
+	-User:
+		-id
+		-nombre
+		-userName
+		-image_id(profile picture)
+		-images_id(posts)
+	-Profile:
+		-id
+		-nombre
+		-userName
+		-image_id(profile picture)
+		-images_id(posts)
+	-Posts:
+		-id
+		-user_id
+		-image_id
+	-Chats:
+		-id
+		-user_id
+		-receiver_id
+		-message
+	-ChatMessage:
+		-id
+		-user_id
+		-receiver_id
+		-message
+
+ACCIONES:
+	-IMAGES:
+		-Obtener image:
+			Path: /images
+			-GET()
+			
+		-Obtener images de un usuario:
+			Path: /images/users/:id
+			-GET()
+				
+		-Guardar image:
+			Path: /image
+			-POST():
+				
+		-Borrar images:
+			Path: /images/:id
+			-DELETE(Id)
+	-USER:
+		-Obtener users:
+			Path: /users
+			-GET()
+			
+		-Guardar user:
+			Path: /user
+			-POST():
+		
+	-PROFILE
+		-Obtener user:
+			Path: /users/:id
+			-GET()
+				
+		-Guardar user:
+			Path: /user
+			-POST():
+	-CHATS:
+		-Obtener chats:
+			Path: /chats
+			-GET()
+				
+		-Borrar user:
+			Path: /chats/:id
+			-DELETE(Id)
+
+	-CHATMESSAGES:			
+		-Obtener chats:
+			Path: /chats/:id
+			-GET()
+				
+		-Guardar chat:
+			Path: /user
+			-POST():
+				
+		-Borrar user:
+			Path: /chats/:id
+			-DELETE(Id)
+		
+	-POSTS:
+		-Obtener posts:
+			Path: /posts
+			-GET()
+			
+		-Obtener posts de un usuario:
+			Path: /posts/users/:id
+			-GET()
+				
+		-Guardar posts:
+			Path: /post
+			-POST():
+				
+		-Borrar posts:
+			Path: /posts/:id
+			-DELETE(Id)
+
