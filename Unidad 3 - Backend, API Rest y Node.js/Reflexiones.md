@@ -25,3 +25,27 @@ Para esto utilizamos las páginas oficiales de las erramientas y pudimos realiza
 <li> https://nodejs.dev/en/learn/introduction-to-nodejs/</li>
 <li> https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/</li>
 <li> http://expressjs.com/en/starter/generator.html</li>
+
+
+## Note App:
+En la clase de hoy se realizo el backend de la app de notas, para esto se utilizo Nodejs y Expressjs, para poder crear un servidor y poder hacer las distintas peticiones que se necesitan para poder crear, editar, borrar y leer las notas.
+
+Para esto se utilizo el comando de npm para poder crear un proyecto de express, y asi poder tener un servidor que pueda correr en el puerto 3000.
+
+El separar el backend de la app de notas, nos permite tener un sistema mas eficiente y que se pueda escalar de manera mas sencilla, ya que el backend es el que se encarga de la lógica de la app, y el frontend es el que se encarga de la parte visual.
+
+## API REST:
+<img src="https://user-images.githubusercontent.com/88668277/202318694-5d96a189-5a2e-4c64-8283-eebf39bc2fcb.png" alt="Api REST Logo" style="width: auto; height: 300pt"/>
+
+En la clase de hoy se vio la parte de API REST, para esto se vio como es que se crean las distintas peticiones que se pueden hacer a un servidor, y como es que se pueden hacer las distintas peticiones desde el frontend.
+
+Para esto se vio como es que se crean las distintas rutas, y como es que se pueden hacer las distintas peticiones desde el frontend.
+
+## Fake insta API:
+<img src="https://user-images.githubusercontent.com/88668277/202318146-975ffbcf-96c7-42a2-94ea-281a731c5c08.png" alt="Fake Insta Logo" style="width: auto; height: 300pt"/>
+
+En la clase de hoy realizamos los cambios de separación entre backend y frontend de nuestra Fake insta App, para esto se utilizo Nodejs y Expressjs, para poder crear un servidor y poder hacer las distintas peticiones que se necesitan para poder crear, editar, borrar y leer.
+
+Utilizamos MongoDB para poder guardar los datos de las distintas personas que se crean en la app, y asi poder tener un sistema de persistencia de datos. Guardar los posts que se crearon para este ejercicio y asi también el tema de la mensajerías. 
+
+
