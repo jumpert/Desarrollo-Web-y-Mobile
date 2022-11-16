@@ -59,6 +59,5 @@
 -->
 ### :hammer_and_wrench: [**Herramientas**](./Herramientas)
   - [:toolbox: Bootstrap 5](./Herramientas/bootstrap)
-  - [:iphone: Android Studio](./Herramientas/android-studio-installer)
   - [:gear: Node.js v19](./Herramientas/node-v19)
-  - [:red_envelope: Postman](./Herramientas/Postman-installer)
+  
